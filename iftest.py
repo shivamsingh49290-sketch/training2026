@@ -16,5 +16,6 @@ if x==1:
 if x==5:
     print("best")
 
+'''
 if x=5:
-    print("sab sahi hi")
+    print("sab sahi hi")'''
